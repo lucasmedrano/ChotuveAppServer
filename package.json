@@ -70,7 +70,7 @@
     "mongoose": "^5.9.3",
     "mongodb": "^3.3.0-beta2",
     "body-parser": "^1.18.2",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "jwt-simple": "^0.5.1",
     "umzug": "^2.1.0",
     "express-wolox-logger": "^2.0.0",
